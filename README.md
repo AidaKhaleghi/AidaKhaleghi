@@ -14,26 +14,28 @@
 </p>
 
 <p align="center">
-  <i>Building things at the intersection of AI, biology, and the human brain — and trying to make sure they're understandable along the way 🧠</i>
+  <i>AI researcher who has applied deep learning to diferent modalities<br/>Currently diving into computational biology: single-cell perturbation, spatial genomics & drug discovery 🧬</i>
 </p>
 
 ---
 
 ### 🔬 About Me
 
-I'm an AI master's student at **Iran University of Science and Technology (IUST)**. My research curiosity lives at the crossroads of:
+I'm a master's student in Artificial Intelligence at **Iran University of Science and Technology (IUST)**, with a bachelor's in Computer Engineering.
 
-- 🧬 **AI × Bioinformatics & Neuroscience** — using AI to make sense of biological and neural signals
-- 🔍 **Explainable & Trustworthy AI** — models that can show their work, not just their output
-- 🖇️ **Multi-Modal Learning** — fusing signals across vision, language, and other modalities
-- 👁️ **Computer Vision**
-- 📝 **Natural Language Processing**
-
-I'm especially drawn to problems where the *"why"* behind a model's decision matters as much as the decision itself.
+- 📝 **B.Sc. — NLP.** Most of my undergraduate work was in natural language processing. My bachelor's project was *"A Heterogeneous Graph Representation of Text via Graph Neural Networks for Persian Sentiment Analysis."*
+- 🩻 **M.Sc. — Medical imaging.** My master's focuses on AI for medical images. My thesis is *"Deep-Unfolding Based Anomaly Detection in Medical Images."* Alongside it, I work on vision, text, and multimodal problems.
+- 🧬 **Now — Computational biology.** This is the field I'm most excited about. I'm learning the biology from the ground up, both the theory and through hands-on projects where I apply my ML background. The areas I want to grow into are **single-cell perturbation modeling**, **spatial genomics**, **tissue foundation models**, **translational single-cell**, and **drug discovery**.
 
 ---
 
 ### 🚀 Featured Projects
+
+**🧪 Computational Biology & Drug Discovery**
+
+- **[Perturbench](https://github.com/AidaKhaleghi/Perturbench)** — Benchmarks a CPA-style conditional VAE against simple baselines for predicting unseen double gene perturbations in single-cell data (Norman 2019 Perturb-seq).
+- **[Drug-Drug Interaction Prediction with GNNs](https://github.com/AidaKhaleghi/Drug-Drug-Interaction_GNN)** — Frames drug-drug interaction prediction as link prediction on the `ogbl-ddi` graph using GraphSAGE.
+- **[Single-Cell Best Practices](https://github.com/AidaKhaleghi/single-cell-best-practices)** — My fork of the Theis lab's *Single-Cell Best Practices*, an excellent open resource for anyone learning single-cell analysis. I'm using it to learn the field step by step, from preprocessing and clustering through to perturbation and spatial analysis, and I'd recommend it to anyone starting out.
 
 **🧬 Medical Imaging**
 
@@ -69,6 +71,10 @@ I'm especially drawn to problems where the *"why"* behind a model's decision mat
 **Machine Learning & Deep Learning**
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/MONAI-0FA0CE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nilearn-F7941E?style=for-the-badge" /> <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" /> <img src="https://img.shields.io/badge/Albumentations-FF6F61?style=for-the-badge" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge" /> <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+
+**Computational Biology & Graph ML**
+
+<img src="https://img.shields.io/badge/AnnData-2E7D32?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scanpy-1B9E77?style=for-the-badge" /> <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge" />
 
 **Data & Visualization**
 
